@@ -34,3 +34,21 @@ h <- h + xlab(label="No. Cylinders") + ylab(label="Miles per Gallon")
 plot(h)
 ```
 
+---
+
+## Slide 3
+
+This is the third slide.
+
+---
+
+## Slide 4
+
+This is the fourth slide.
+
+---
+
+## Slide 5
+
+This is the fifth slide.
+

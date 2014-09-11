@@ -25,3 +25,21 @@ Using all those graphing skills:
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
+---
+
+## Slide 3
+
+This is the third slide.
+
+---
+
+## Slide 4
+
+This is the fourth slide.
+
+---
+
+## Slide 5
+
+This is the fifth slide.
+
